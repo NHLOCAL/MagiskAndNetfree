@@ -1,7 +1,8 @@
-# Magisk on WSA (with Google Apps)
+# Magisk on WSA (with Google Apps) + Netfree CAs
 
 ## Features
 - Integrate Magisk and OpenGApps in a few clicks within minutes
+- Integrate netfree certificates in all versions, no ROOT nedded! 
 - No Linux environment required for integration
 - Keep each build up to date
 - Support both ARM64 and x64
